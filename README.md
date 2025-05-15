@@ -1,14 +1,5 @@
 <p align="center">
-  <img src="./assets/cover.png" width="300" alt="Capa do Podcast IA: A Nova Esperança"/>
-</p>
-
-<p align="center">
-  <a href="https://dio.me/">
-    <img src="https://img.shields.io/badge/DIO-Code_The_Future-28DA77?logo=youtube" alt="DIO - Code The Future">
-  </a>
-  <a href="https://dio.me/">
-    <img src="https://img.shields.io/badge/LIVE_CODE-FF5E72?logo=livewire" alt="Live Code">
-  </a>
+  <img src="./assets/cover.png" width="300" alt="Capa do Podcast IA: A Nova Esperança" />
 </p>
 
 <div align="center">
@@ -27,19 +18,19 @@ Projeto com o objetivo de **gerar um podcast completo utilizando ferramentas de 
 
 ## 🧰 Tecnologias Utilizadas
 
-- 🤖 [ChatGPT](https://chat.openai.com/) — Criação de roteiro e estrutura
-- 🎨 [Leonardo.ai](https://app.leonardo.ai/image-generation) — Criação da capa do podcast
-- 🔊 [ElevenLabs](https://beta.elevenlabs.io/) — Geração de voz para o áudio
-- 🎬 [CapCut](https://www.capcut.com/pt-br/) — Edição de áudio e adição de trilha sonora
+- 🤖 [ChatGPT](https://chat.openai.com/) — Criação de roteiro e estrutura  
+- 🎨 [Leonardo.ai](https://app.leonardo.ai/image-generation) — Criação da capa do podcast  
+- 🔊 [ElevenLabs](https://beta.elevenlabs.io/) — Geração de voz para o áudio  
+- 🎬 [CapCut](https://www.capcut.com/pt-br/) — Edição de áudio e adição de trilha sonora  
 
 ---
 
 ## 🛠️ Etapas do Processo Criativo
 
-1. ✍️ Roteiro gerado com **ChatGPT**
-2. 🗣️ Narração criada via **ElevenLabs**
-3. 🖼️ Capa visual feita com **Leonardo.ai**
-4. 🎧 Edição final feita no **CapCut**, com som de fundo
+1. ✍️ Roteiro gerado com **ChatGPT**  
+2. 🗣️ Narração criada via **ElevenLabs**  
+3. 🖼️ Capa visual feita com **Leonardo.ai**  
+4. 🎧 Edição final feita no **CapCut**, com som de fundo  
 
 ---
 
