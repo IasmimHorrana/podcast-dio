@@ -8,7 +8,7 @@
 
 ---
 
-# 🎙️ IA: A Nova Esperança
+# 🎙️ AI Revolution: From Global Boom to Today
 
 > Este projeto foi desenvolvido durante o bootcamp **Microsoft AI for Tech – Criando Prompts Inteligentes** promovido pela [DIO](https://dio.me/).
 
