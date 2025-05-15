@@ -1,37 +1,37 @@
 <p align="center">
-  <img src="./assets/cover.png" width="300" alt="Capa do Podcast IA: A Nova Esperança" />
+  <img src="./assets/cover.png" width="300" alt="Podcast Cover - AI Revolution: From Global Boom to Today" />
 </p>
 
 <div align="center">
-  <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
+  <audio src="output/podcast_editado.MP3" controls title="Edited Podcast"></audio>
 </div>
 
 ---
 
 # 🎙️ AI Revolution: From Global Boom to Today
 
-> Este projeto foi desenvolvido durante o bootcamp **Microsoft AI for Tech – Criando Prompts Inteligentes** promovido pela [DIO](https://dio.me/).
+> This project was developed during the **Microsoft AI for Tech – Creating Smart Prompts** bootcamp promoted by [DIO](https://dio.me/).
 
-Projeto com o objetivo de **gerar um podcast completo utilizando ferramentas de Inteligência Artificial** a partir de uma esteira de prompts organizados estrategicamente.
-
----
-
-## 🧰 Tecnologias Utilizadas
-
-- 🤖 [ChatGPT](https://chat.openai.com/) — Criação de roteiro e estrutura  
-- 🎨 [Leonardo.ai](https://app.leonardo.ai/image-generation) — Criação da capa do podcast  
-- 🔊 [ElevenLabs](https://beta.elevenlabs.io/) — Geração de voz para o áudio  
-- 🎬 [CapCut](https://www.capcut.com/pt-br/) — Edição de áudio e adição de trilha sonora  
+A project aimed at **creating a complete podcast using Artificial Intelligence tools** through a strategically organized prompt pipeline.
 
 ---
 
-## 🛠️ Etapas do Processo Criativo
+## 🧰 Technologies Used
 
-1. ✍️ Roteiro gerado com **ChatGPT**  
-2. 🗣️ Narração criada via **ElevenLabs**  
-3. 🖼️ Capa visual feita com **Leonardo.ai**  
-4. 🎧 Edição final feita no **CapCut**, com som de fundo  
+- 🤖 [ChatGPT](https://chat.openai.com/) — Script and structure generation  
+- 🎨 [Leonardo.ai](https://app.leonardo.ai/image-generation) — Podcast cover creation  
+- 🔊 [ElevenLabs](https://beta.elevenlabs.io/) — Voice generation for the audio  
+- 🎬 [CapCut](https://www.capcut.com/) — Audio editing and background music addition  
 
 ---
 
-Sinta-se à vontade para explorar os arquivos do repositório e ouvir o episódio final logo acima. 🚀
+## 🛠️ Creative Process Steps
+
+1. ✍️ Script generated using **ChatGPT**  
+2. 🗣️ Voiceover created via **ElevenLabs**  
+3. 🖼️ Cover art designed with **Leonardo.ai**  
+4. 🎧 Final editing done in **CapCut**, including background sounds  
+
+---
+
+Feel free to explore the repository files and listen to the final episode above. 🚀
